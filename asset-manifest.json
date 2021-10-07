@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/%3Crepo%3E/static/css/main.f07be738.chunk.css",
-    "main.js": "/%3Crepo%3E/static/js/main.275a8905.chunk.js",
-    "main.js.map": "/%3Crepo%3E/static/js/main.275a8905.chunk.js.map",
-    "runtime-main.js": "/%3Crepo%3E/static/js/runtime-main.8212fc60.js",
-    "runtime-main.js.map": "/%3Crepo%3E/static/js/runtime-main.8212fc60.js.map",
-    "static/js/2.58bc60be.chunk.js": "/%3Crepo%3E/static/js/2.58bc60be.chunk.js",
-    "static/js/2.58bc60be.chunk.js.map": "/%3Crepo%3E/static/js/2.58bc60be.chunk.js.map",
-    "index.html": "/%3Crepo%3E/index.html",
-    "static/css/main.f07be738.chunk.css.map": "/%3Crepo%3E/static/css/main.f07be738.chunk.css.map",
-    "static/js/2.58bc60be.chunk.js.LICENSE.txt": "/%3Crepo%3E/static/js/2.58bc60be.chunk.js.LICENSE.txt"
+    "main.css": "/homework-4-ant513g/static/css/main.f07be738.chunk.css",
+    "main.js": "/homework-4-ant513g/static/js/main.275a8905.chunk.js",
+    "main.js.map": "/homework-4-ant513g/static/js/main.275a8905.chunk.js.map",
+    "runtime-main.js": "/homework-4-ant513g/static/js/runtime-main.e4a453b1.js",
+    "runtime-main.js.map": "/homework-4-ant513g/static/js/runtime-main.e4a453b1.js.map",
+    "static/js/2.d55d10de.chunk.js": "/homework-4-ant513g/static/js/2.d55d10de.chunk.js",
+    "static/js/2.d55d10de.chunk.js.map": "/homework-4-ant513g/static/js/2.d55d10de.chunk.js.map",
+    "index.html": "/homework-4-ant513g/index.html",
+    "static/css/main.f07be738.chunk.css.map": "/homework-4-ant513g/static/css/main.f07be738.chunk.css.map",
+    "static/js/2.d55d10de.chunk.js.LICENSE.txt": "/homework-4-ant513g/static/js/2.d55d10de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8212fc60.js",
-    "static/js/2.58bc60be.chunk.js",
+    "static/js/runtime-main.e4a453b1.js",
+    "static/js/2.d55d10de.chunk.js",
     "static/css/main.f07be738.chunk.css",
     "static/js/main.275a8905.chunk.js"
   ]
