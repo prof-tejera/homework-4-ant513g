@@ -1,12 +1,14 @@
-{
+{ 
+  "homepage": "https://prof-tejera.github.io/homework-4-ant513g/",
   "name": "react-styling-exercise",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.3.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-    "styled-components": "^5.2.1"
+    "styled-components": "^5.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,4 +32,4 @@
       "last 1 safari version"
     ]
   }
-}
+} 
