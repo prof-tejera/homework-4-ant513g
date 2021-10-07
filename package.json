@@ -1,4 +1,4 @@
-{
+{"homepage": "https://prof-tejera.github.io/<repo>",
   "name": "react-styling-exercise",
   "version": "1.0.0",
   "private": true,
@@ -31,4 +31,4 @@
       "last 1 safari version"
     ]
   }
-}
+} 
