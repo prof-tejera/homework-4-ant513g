@@ -22,7 +22,10 @@ class Screen extends Component {
   }
 }
 Screen.propTypes = {
-  value: PropTypes.element,
+  value: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.number,
+  ])
 }
 
 export default Screen;

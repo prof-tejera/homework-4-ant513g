@@ -11,7 +11,7 @@ const Container = styled.div`
   padding: 16px;
   margin: 4px;
   height: 50px;
-  width: 50px;
+  width: 50px; 
   box-sizing: border-box;
   border-radius: 16px;
   text-align: center;
@@ -26,6 +26,7 @@ class Number extends Component {
       pressed: false,
     };
   }
+  
   onMouseDown = () => {
     this.setState({
           pressed: true,
@@ -51,7 +52,11 @@ class Number extends Component {
 }
 
 Number.propTypes = {
-  value: PropTypes.node,
+  value: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.number,
+    PropTypes.node,
+  ])
 }
 
 export default Number;

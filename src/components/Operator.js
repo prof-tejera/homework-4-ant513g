@@ -40,8 +40,6 @@ class Operator extends Component {
   }
 
   render() {
-      // const { pressed, backgroundColor} = this.state;
-      
     return (
       <Container
         pressed={this.state.pressed}
