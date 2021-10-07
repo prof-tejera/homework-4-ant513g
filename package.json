@@ -1,4 +1,5 @@
-{ "homepage": "https://prof-tejera.github.io/<repo>",
+{ 
+  "homepage": "https://prof-tejera.github.io/<repo>",
   "name": "react-styling-exercise",
   "version": "1.0.0",
   "private": true,
